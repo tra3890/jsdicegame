@@ -1,1 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 
+#button {
+    display: grid;
+    width: 150px;
+    height: 150px;
+}
+
+#diceImg {
+    display: flex;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+}
+
+.body {
+    background-color: blue;
+}
